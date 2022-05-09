@@ -1,0 +1,12 @@
+CS 512 Project - Group 14 (rkg63, ed560, ps1149)@scarletmail.rutgers.edu
+
+OPTICS
+
+App Link:
+	-
+Video Link:
+	-
+Instructions to Run the App locally:
+	1) Install the libraries present in the import section of the script.
+	2) Put the data in the
+	3) 
